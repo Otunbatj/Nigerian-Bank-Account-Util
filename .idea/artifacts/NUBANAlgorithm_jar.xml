@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NUBANAlgorithm:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NUBANAlgorithm_jar</output-path>
+    <root id="archive" name="NUBANAlgorithm.jar">
+      <element id="module-output" name="NUBANAlgorithm" />
+    </root>
+  </artifact>
+</component>
